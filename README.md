@@ -1,1 +1,1 @@
-# DispositivosMoviles(Ayudantia)
+# DispositivosMoviles(Laboratorio)
